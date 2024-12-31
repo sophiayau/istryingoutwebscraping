@@ -1,5 +1,5 @@
-# My first run with web scraping!
-Join me on my journey to teach myself web scraping 😄
+# Join me on my journey to teach myself web scraping 😄
+My winter break fixation 
 
 ### Motivation
 During my time as a Data Science Fellow with CUNY Tech Prep, I discovered a deep appreciation for working with data. Data is everywhere, and it interests me greatly because it holds endless possibilities for insights and innovation.  
