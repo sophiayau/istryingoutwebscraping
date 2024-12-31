@@ -1,4 +1,4 @@
-# Join me on my journey to teach myself web scraping 😄
+## Join me on my journey to teach myself web scraping 😄
 My winter break fixation 
 
 ### Motivation
